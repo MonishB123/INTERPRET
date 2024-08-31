@@ -1,16 +1,11 @@
-# interpret
+# INTERPRET
 
-A new Flutter project.
+A Web/Android/Apple app for using Sign Lanaguage, second place winner of the 2023 Congressional App Challenge. 
 
-## Getting Started
+## Running the App
 
-This project is a starting point for a Flutter application.
+This project can be deployed on Virtual Android Devices or on a Website using VSCode's Flutter Plugin, to download the app on a local device visit these links:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://docs.flutter.dev/deployment/android
+https://docs.flutter.dev/deployment/ios
+https://docs.flutter.dev/deployment/web

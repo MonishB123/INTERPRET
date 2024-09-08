@@ -1,6 +1,6 @@
 # INTERPRET
 
-A Web/Android/Apple app for using Sign Lanaguage, second place winner of the 2023 Congressional App Challenge. 
+A Web/Android/IOS app for using Sign Lanaguage, second place winner of the 2023 Congressional App Challenge. 
 
 ## Running the App
 
